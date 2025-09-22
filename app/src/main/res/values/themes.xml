@@ -5,5 +5,12 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <!-- Base application theme with ActionBar. -->
+    <style name="Base.Theme.TugasMyTabLayoutApp.WithActionBar" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
     <style name="Theme.TugasMyTabLayoutApp" parent="Base.Theme.TugasMyTabLayoutApp" />
+    <style name="Theme.TugasMyTabLayoutApp.WithActionBar." parent="Base.Theme.TugasMyTabLayoutApp.WithActionBar" />
 </resources>
